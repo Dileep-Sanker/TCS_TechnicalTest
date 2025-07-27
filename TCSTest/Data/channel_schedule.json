@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "3f1e6c65-3602-4792-bed0-369969399f6f",
+    "ChannelId": "f7e6d5c4-1234-4abc-9def-345678901cde",
+    "ContentId": "10ffc6c2-cc1c-46d7-9d2b-e46e9e569638",
+    "StartTime": "2025-07-26T17:00:00",
+    "EndTime": "2025-07-26T19:30:00"
+  },
+  {
+    "Id": "50b5bcc3-188e-4e82-8515-1ae6be3b1eb7",
+    "ChannelId": "a3b2c1d4-5678-4abc-9def-1234567890ab",
+    "ContentId": "ac355bef-129c-49a4-8dce-97f9b2d1197c",
+    "StartTime": "2025-07-26T21:00:00",
+    "EndTime": "2025-07-26T23:00:00"
+  },
+  {
+    "Id": "80125705-d724-4db3-8312-2da830dfb3fc",
+    "ChannelId": "f7e6d5c4-1234-4abc-9def-345678901cde",
+    "ContentId": "a5510c3e-a77b-42f8-9e4c-6676dde8d5a9",
+    "StartTime": "2025-07-26T08:00:00",
+    "EndTime": "2025-07-26T10:30:00"
+  },
+  {
+    "Id": "8e94686c-9da2-4021-8cac-a73dd0567cf0",
+    "ChannelId": "f7e6d5c4-1234-4abc-9def-345678901cde",
+    "ContentId": "faa632ed-6211-4d75-bc92-cb42def28aef",
+    "StartTime": "2025-07-27T09:00:00",
+    "EndTime": "2025-07-27T11:00:00"
+  },
+  {
+    "Id": "e7337e9d-5dc7-4dd8-aa32-eb528fe76326",
+    "ChannelId": "f7e6d5c4-1234-4abc-9def-345678901cde",
+    "ContentId": "12277e46-e29e-47d5-b56b-84fbd0ed0ef4",
+    "StartTime": "2025-07-27T10:00:00",
+    "EndTime": "2025-07-27T12:00:00"
+  }
+]

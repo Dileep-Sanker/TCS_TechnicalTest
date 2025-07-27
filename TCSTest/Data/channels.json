@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "1d392f4a-bf3d-4d5d-ae60-f65173fb5f42",
+    "Name": "Discovery Channel",
+    "Description": "Documentaries and educational programming.",
+    "Provider": "Discovery Inc.",
+    "Language": "English",
+    "Region": "Global"
+  },
+  {
+    "Id": "38600bfb-fb17-4f2a-af7f-ac7c2aa0291c",
+    "Name": "Zee TV",
+    "Description": "Popular Indian entertainment channel.",
+    "Provider": "Zee Entertainment.",
+    "Language": "Hindi",
+    "Region": "India"
+  },
+  {
+    "Id": "f7e6d5c4-1234-4abc-9def-345678901cde",
+    "Name": "9 News Australia",
+    "Description": "Leading Australian news channel providing national and international news coverage.",
+    "Provider": "Nine Network",
+    "Language": "English",
+    "Region": "Australia"
+  },
+  {
+    "Id": "d8f9e5e6-0b05-4415-ae36-da337e84bfa7",
+    "Name": "ABC News Australia",
+    "Description": "Australia\u0027s national news channel providing live news coverage and analysis.",
+    "Provider": "Australian Broadcasting Corporation",
+    "Language": "English",
+    "Region": "Australia"
+  },
+  {
+    "Id": "b273d89e-ef5c-440c-85d7-ed8a3b646601",
+    "Name": "SBS Australia",
+    "Description": "Multicultural and multilingual broadcasting service.",
+    "Provider": "Special Broadcasting Service",
+    "Language": "English",
+    "Region": "Australia"
+  },
+  {
+    "Id": "f0348a46-5d5e-42ce-a6a3-fe54102d4453",
+    "Name": "Seven Network",
+    "Description": "Major commercial network with news, sports, and entertainment",
+    "Provider": "Seven West Media",
+    "Language": "English",
+    "Region": "Australia Global"
+  }
+]

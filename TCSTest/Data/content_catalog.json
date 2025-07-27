@@ -1,0 +1,72 @@
+[
+  {
+    "Id": "28610fa9-11d4-441f-a32e-520bba39140f",
+    "Title": "Inception",
+    "Type": "Movie",
+    "Genre": "Science Fiction",
+    "Description": "A mind-bending thriller about dream invasion.",
+    "ReleaseYear": 2010,
+    "Duration": 120,
+    "Rating": "5-Star"
+  },
+  {
+    "Id": "674efd8c-2871-4f41-b1f6-c606dcb2c1e0",
+    "Title": "Breaking Bad -Series 2",
+    "Type": "Show",
+    "Genre": "Crime, Drama",
+    "Description": "A high school chemistry teacher turns to a life of crime.",
+    "ReleaseYear": 2008,
+    "Duration": 90,
+    "Rating": "5-Star"
+  },
+  {
+    "Id": "12277e46-e29e-47d5-b56b-84fbd0ed0ef4",
+    "Title": "The Matrix",
+    "Type": "Movie",
+    "Genre": "Action, Science Fiction",
+    "Description": "A computer hacker learns about the true nature of reality.",
+    "ReleaseYear": 1999,
+    "Duration": 120,
+    "Rating": "5-Star"
+  },
+  {
+    "Id": "10ffc6c2-cc1c-46d7-9d2b-e46e9e569638",
+    "Title": "Interstellar",
+    "Type": "Movie",
+    "Genre": "Adventure, Science Fiction",
+    "Description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity\u0027s survival.",
+    "ReleaseYear": 2014,
+    "Duration": 180,
+    "Rating": "5-Star"
+  },
+  {
+    "Id": "177d8354-6a9a-4b7f-be1f-406a4e9f5718",
+    "Title": "Stranger Things",
+    "Type": "Show",
+    "Genre": "Science Fiction, Thriller",
+    "Description": "A group of kids uncover supernatural mysteries in their small town.",
+    "ReleaseYear": 2016,
+    "Duration": 90,
+    "Rating": "4-Star"
+  },
+  {
+    "Id": "d90f7fd9-0f3f-4f58-99b5-e33081277e7b",
+    "Title": "The Castle",
+    "Type": "Movie",
+    "Genre": "Comedy",
+    "Description": "An Australian family fights to save their home from compulsory acquisition.",
+    "ReleaseYear": 1997,
+    "Duration": 85,
+    "Rating": "PG"
+  },
+  {
+    "Id": "faa632ed-6211-4d75-bc92-cb42def28aef",
+    "Title": "Bluey",
+    "Type": "Show",
+    "Genre": "Animation",
+    "Description": "A lovable Australian Blue Heeler puppy embarks on imaginative adventures.",
+    "ReleaseYear": 2018,
+    "Duration": 120,
+    "Rating": "G"
+  }
+]
